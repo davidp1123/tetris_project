@@ -1,4 +1,6 @@
 # tetris_project
+#embedded system programming
+
 박제현
 
 1. 요구사항 정의
